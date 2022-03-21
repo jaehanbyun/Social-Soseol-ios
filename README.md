@@ -1,2 +1,2 @@
-# -Social-Soseol-ios
+# Social-Soseol-ios
 ios_project
